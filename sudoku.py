@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-pip install pygame_widgets
-
-
-# In[ ]:
-
-
 import pygame
 import pygame_widgets as pw
 import sys
